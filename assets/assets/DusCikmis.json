@@ -1,0 +1,282 @@
+{
+  "moduller": [
+    {
+      "id": "periodontoloji",
+      "baslik": "Periodontoloji",
+      "konular": [
+        {
+          "id": "cikmislar1",
+          "baslik": "Çıkmış Sorular 1",
+          "sorular": [
+            {
+              "id": "soru1",
+              "soru": "Aşağıdakilerden hangisi, gingival inflamasyonun başlangıç lezyonu (2–4. gün) sırasında görülen bir özelliktir?",
+              "secenekler": [
+                "A) Rete pegs oluşumu ve atrofi",
+                "B) Perivasküler kollajen kaybı",
+                "C) Plasma hücre infiltrasyonu",
+                "D) Kan stazı ve kan damarlarında artış",
+                "E) Atrofi çevresinde artan kollajen kaybı"
+              ],
+              "dogru_cevap": "B",
+              "aciklama": "Başlangıç lezyonunda vasküler dilatasyon, PMN infiltrasyonu ve perivasküler kollajen kaybı gözlenir; plasma hücre infiltrasyonu, sondlamada kanama, rete pegs ve atrofi daha ileri evrelerde ortaya çıkar."
+            },
+            {
+              "id": "soru2",
+              "soru": "Aşağıdakilerden hangisi sigaranın periodontal dokular üzerindeki etkilerinden biridir?",
+              "secenekler": [
+                "A) Sondlama sırasında kanamayı artırır",
+                "B) Cep derinliğini azaltır",
+                "C) Periodontal yıkımı hızlandırır",
+                "D) Gingival kanlanmayı artırır",
+                "E) Bağ dokusu iyileşmesini hızlandırır"
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "Sigara sondlamada kanamayı azaltır. Cep derinliğini artırır. Bağ dokusu iyileşmesini yavaşlatır. Periodontal yıkımı hızlandırır."
+            },
+            {
+              "id": "soru3",
+              "soru": "DOS hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+              "secenekler": [
+                "A) Yalnızca sağlıklı dokularda bulunur",
+                "B) Protein ve antikor içermez",
+                "C) Enzim, antijen ve epitel hücreleri içerir",
+                "D) İyileşme döneminde akışı durur",
+                "E) Hormonal değişikliklerden etkilenmez"
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "DOS, normal gingivada çok az bulunur veya hiç bulunmaz. Cep sıvısı içerisinde pek çok molekül ve iyon taşır; ayrıca çeşitli proteinler, antikorlar, antijenler, enzimler ve epitel hücreleri içerir."
+            },
+            {
+              "id": "soru4",
+              "soru": "Aggregatibacter actinomycetemcomitans aşağıdakilerden hangisiyle en çok ilişkilidir?",
+              "secenekler": [
+                "A) Puberte gingivitisi",
+                "B) Down sendromuna bağlı dişeti değişiklikleri",
+                "C) Lokalize agresif periodontitis",
+                "D) Hormonal değişikliklere bağlı dişeti büyümeleri",
+                "E) Hamilelik gingivitisi"
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "A. actinomycetemcomitans, özellikle genç bireylerde görülen lokalize agresif periodontitis ile güçlü ilişki gösterir."
+            },
+            {
+              "id": "soru5",
+              "soru": "Aşağıdaki Gracey küretlerden hangisi, posterior dişlerin distal yüzeylerinde kullanmak üzere dizayn edilmiştir?",
+              "secenekler": [
+                "A) Gracey 1-2",
+                "B) Gracey 5-6",
+                "C) Gracey 9-10",
+                "D) Gracey 11-12",
+                "E) Gracey 13-14"
+              ],
+              "dogru_cevap": "E",
+              "aciklama": "Gracey 13-14, posterior dişlerin distal yüzeyleri için kullanılır. 11-12 mezial yüzeyler, 5-6 anterior ve premolarlar içindir."
+            },
+            {
+              "id": "soru6",
+              "soru": "Periodontal tedavilerde kullanılan tetrasiklin antibiyotiği hakkında hangisi doğrudur?",
+              "secenekler": [
+                "A) Dişeti oluğuna göre serumda daha fazla birikim",
+                "B) Antikollajenaz etkisi",
+                "C) Gram negatiflere gram pozitiflere göre güçlü etki",
+                "D) Penisilin türevi olması",
+                "E) Yüksek dozda kullanıldığında etki göstermesi"
+              ],
+              "dogru_cevap": "B",
+              "aciklama": "Tetrasiklinler, dişeti oluğunda serumdan 2-10 kat daha fazla bulunur. Matriks metalloproteinazları inhibe ederek antikollejenaz bir aktivite gösterirler. Gram pozitif bakterilere daha çok etkilidirler."
+            },
+            {
+              "id": "soru7",
+              "soru": "Aşağıdakilerden hangisi periodontal cerrahide kullanılan rezorbe olabilen bir bariyer membrandır?",
+              "secenekler": [
+                "A) PTFE",
+                "B) Polylactic asit",
+                "C) Miilipore filtre",
+                "D) Mikrotitanyum mesh",
+                "E) Titanium folyo"
+              ],
+              "dogru_cevap": "B",
+              "aciklama": "Polylactic asit membranlar rezorbe olabilen bariyer amaçlı kullanılan membranlardır. Diğer şıklar rezorbe olmayan materyallerdir."
+            },
+            {
+              "id": "soru8",
+              "soru": "Aşağıdakilerden hangisi ya da hangileri Peri-implantitis için risk faktörleri olarak gösterilebilir?\n I.Kötü ağız hijyeni\n II. İmplant Yüzeyi\n III. Kısa implant kullanımı\n IV. Alkol Tüketimi",
+              "secenekler": [
+                "A) Yalnız I",
+                "B) I,II,IV",
+                "C) I,II,III",
+                "D) I ve III",
+                "E) I ve IV"
+              ],
+              "dogru_cevap": "B",
+              "aciklama": "Peri-implantitis için risk faktörleri; kötü ağız hijyeni, implant yüzeyi, alkol tüketimi, sigara, diyabet, periodontitis öyküsüdür."
+            },
+            {
+              "id": "soru9",
+              "soru": "Gingivektominin endike olduğu durum aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "A) Kemik cerrahisi gerektiren durumlar",
+                "B) Mukogingival birleşimin altına uzanan cepler varlığında",
+                "C) Kemik üstü ceplerin eliminasyonu",
+                "D) Estetik bölgedeki problemler",
+                "E) Keratinize dişeti darlığında"
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "Gingivektomi, kemik üstü ceplerin eliminasyonu, dişeti büyümeleri ve kron boyu uzatılması gibi durumlarda uygulanır."
+            },
+            {
+              "id": "soru10",
+              "soru": "İnterdental bölgelerde kullanılan periodontal bıçak aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "A) Kirkland",
+                "B) Orban",
+                "C) Ochsenbein",
+                "D) Prichard",
+                "E) Merrifield"
+              ],
+              "dogru_cevap": "B",
+              "aciklama": "Operasyonda fasiyal ve lingual bölgelerde Kirkland, interdental bölgelerde ise Orban bıçağı kullanılır."
+            }
+          ]
+        },
+        {
+          "id": "cikmislar2",
+          "baslik": "Çıkmış Sorular 2",
+          "sorular": [
+            {
+              "id": "soru1",
+              "soru": "Restoratif işlemler ve protetik uygulamalar hangi periodontal tedavi fazında yapılır?",
+              "secenekler": [
+                "A) Faz I",
+                "B) Faz II",
+                "C) Faz III",
+                "D) Faz IV",
+                "E) Öncelikli faz"
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "Restoratif işlemler ve protetik uygulamalar faz III'te yer alır."
+            },
+            {
+              "id": "soru2",
+              "soru": "Diş eti bağ dokusunda yaklaşık %5 oranında bulunan hücre tipi aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "A) Fibroblastlar",
+                "B) Kollajen fibriller",
+                "C) Damarlar",
+                "D) Sinirler",
+                "E) Matriks"
+              ],
+              "dogru_cevap": "A",
+              "aciklama": "Dişeti bağ dokusunun major komponentlerini kollajen fibriller (%60), fibroblastlar (%5) ve damarlar, sinirler, matriks oluşturur."
+            },
+            {
+              "id": "soru3",
+              "soru": "Aşağıdakilerden hangisi Faz II tedavi içerisinde yer almaz?",
+              "secenekler": [
+                "A) Endodontik tedavi",
+                "B) Cerrahi periodontal işlemler",
+                "C) Hareketli protetik uygulamalar",
+                "D) Kemik rezorpsiyonunu önleyici tedaviler",
+                "E) Cep eliminasyonu için flap operasyonları"
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "Hareketli protetik uygulamalar Faz III (Restoratif Faz) içerisinde yer alır; Faz II ise cerrahi ve endodontik işlemleri kapsar."
+            },
+            {
+              "id": "soru4",
+              "soru": "Aşağıdakilerden hangileri sondun penetrasyonunu (sondlama derinliğini) etkileyen faktörlerdendir?\nI. Sond ucunun boyutu ve şekli\nII. Uygulanan kuvvet\nIII. Dokunun inflamasyon derecesi",
+              "secenekler": [
+                "A) Yalnız I",
+                "B) Yalnız II",
+                "C) I ve II",
+                "D) I ve III",
+                "E) I, II ve III"
+              ],
+              "dogru_cevap": "E",
+              "aciklama": "Sond penetrasyonunu etkileyen faktörler şunlardır: Sond ucunun boyutu ve şekli, uygulanan kuvvet, giriş yönü, dokunun direnci, dokunun inflamasyon derecesi, kronun dışbükeyliği."
+            },
+            {
+              "id": "soru5",
+              "soru": "Aşağıdaki ifadelerden hangisi lokalize agresif periodontitis için doğrudur?",
+              "secenekler": [
+                "A) Birinci molar ve kesici dişler dışında en az 3 daimi diş daha etkilenir.",
+                "B) Genellikle 30 yaş üzerindeki bireylerde görülür.",
+                "C) Etkilenen dişler çoğunlukla birinci molar ve kesici dişlerle sınırlıdır.",
+                "D) Hastalık şiddeti ve subgingival mikroflora, generalize agresif periodontitis ile aynıdır.",
+                "E) Genetik risk faktörleri bu hastalıkta rol oynamaz."
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "Lokalize agresif periodontitis, genellikle ergenlik çağında başlayan ve güçlü antikor yanıtı ile karakterize edilen bir hastalıktır. Bu hastalıkta ataşman ve kemik kaybı, çoğunlukla birinci molar ve kesici dişlerle sınırlıdır. Buna karşılık, generalize agresif periodontitiste birinci molar ve kesiciler dışında en az 3 daimi diş daha etkilenmiştir. Ayrıca iki hastalık, subgingival mikroflora ve genetik risk faktörleri açısından da farklılık gösterir."
+            },
+            {
+              "id": "soru6",
+              "soru": "Aşağıdaki hastalıklardan hangisi genellikle çocuklarda görülen, ateş, halsizlik, lenfadenopati ile birlikte ağız içinde vezikül, erozyon ve yaygın eritemli gingival lezyonlarla karakterizedir?",
+              "secenekler": [
+                "A) Oral mukoz-membran pemfigoid",
+                "B) Pemfigus vulgaris",
+                "C) Eritema multiforme",
+                "D) Primer herpetik gingivostomatit",
+                "E) Akut nekrotizan ülseratif gingivitis"
+              ],
+              "dogru_cevap": "D",
+              "aciklama": "Primer herpetik gingivostomatit, herpes simpleks virüs tip 1'in neden olduğu, özellikle küçük çocuklarda görülen akut bir enfeksiyondur. Ağız içinde veziküller, ülserasyonlar, yaygın gingival eritem ve şişlik ile karakterizedir. Sistemik belirtiler arasında ateş, halsizlik ve servikal lenfadenopati bulunur."
+            },
+            {
+              "id": "soru7",
+              "soru": "Aşağıdaki ifadelerden hangisi periodontal hastalıkların patogenezinde rol alan sitokinler hakkında doğrudur?",
+              "secenekler": [
+                "A) Sadece TNF-alfa, makrofajlardan prostaglandin E2 salınımını indükler.",
+                "B) IL-1'in periodontal hastalıkta etkisi TNF-alfa'ya göre daha azdır.",
+                "C) IL-1 ve TNF-alfa, endotel hücrelerini uyararak selektin ekspresyonunu artırır.",
+                "D) IL-1 beta, kemik rezorpsiyonunu inhibe eder.",
+                "E) TNF-beta, IL-8 (CXCL8) stimülasyonunda anahtar rol oynar."
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "IL-1 alfa ve beta osteoklast aktivasyonunda rol oynar, kemik rezorpsiyonunu artırır ve periodontal hastalıkların patogenezinde en önemli sitokinlerdir. IL-1 beta ayrıca prostaglandin E2 sentezini ve IL-8 (CXCL8) stimülasyonunu da tetikler. TNF-alfa ise bakteriyel lipopolisakkaritlere yanıt olarak aktive makrofajlardan salınır ve kemik rezorpsiyonuna katkı sağlar. Hem IL-1 hem de TNF-alfa, endotel hücrelerini uyararak selektin ekspresyonunu ve makrofaj aktivasyonunu artırır."
+            },
+            {
+              "id": "soru8",
+              "soru": "Aşağıdakilerden hangisi plaktan bağımlı gingival lezyonlardan biridir?",
+              "secenekler": [
+                "A) Herpes virus enfeksiyonları",
+                "B) Streptococcus mutans",
+                "C) Candida",
+                "D) Lösemiye bağlı gingivitis",
+                "E) Varicella Zoster"
+              ],
+              "dogru_cevap": "D",
+              "aciklama": "Plaktan bağımlı gingival lezyonlar, plak birikimi ve lokal iritanların etkisiyle ortaya çıkar ve plak varlığı, hastalığın gelişmesinde önemli rol oynar. Lösemiye bağlı gingivitis, plak varlığına duyarlıdır; yani lösemi hastalarında bile gingival inflamasyonun şiddeti, ağızdaki plak kontrolüne bağlı olarak artabilir. Diğer şıklar (herpes virus enfeksiyonları, Streptococcus mutans, Candida, Varicella Zoster) doğrudan plakla ilişkili değil, enfeksiyöz veya mikrobiyal kaynaklı plaktan bağımsız durumlardır."
+            },
+            {
+              "id": "soru9",
+              "soru": "Diş eti bağ dokusunda hacim olarak %5'i oluşturan komponent aşağıdakilerden hangisidir?",
+              "secenekler": [
+                "A) Kollajen fibriller",
+                "B) Fibroblastlar",
+                "C) Damarlar",
+                "D) Sinirler",
+                "E) Matriks"
+              ],
+              "dogru_cevap": "B",
+              "aciklama": "Dişeti bağ dokusunun major komponentlerini kollajen fibriller (%60), fibroblastlar (%5) ve damarlar, sinirler, matriks oluşturur."
+            },
+            {
+              "id": "soru10",
+              "soru": "Aşağıdaki ifadelerden hangisi gingivitisin 3. aşaması (yerleşmiş lezyon) için doğrudur?",
+              "secenekler": [
+                "A) Alveoler kemikte yıkım başlamıştır.",
+                "B) Klinik olarak ataşman kaybı mevcuttur.",
+                "C) Plazma hücreleri baskındır ve inflamasyon gingival dokularla sınırlıdır.",
+                "D) Bağlantı epiteli sağlamdır, inflamasyon görülmez.",
+                "E) Periodontal ligament kaybı belirgindir."
+              ],
+              "dogru_cevap": "C",
+              "aciklama": "Gingivitisin 3. aşamasında kemik ve ataşman kaybı yoktur; bu durum sadece periodontitiste görülür. Bu aşamada plazma hücreleri baskındır ve inflamasyon sadece diş etiyle sınırlıdır. Bağlantı epiteli yer değiştirmiştir, sağlam değildir. Periodontal ligament zarar görmez çünkü henüz periodontitis gelişmemiştir."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
